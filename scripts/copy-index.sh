@@ -1,0 +1,1 @@
+aws --endpoint-url=http://localhost:4566 s3 cp ../s3-static-website-localstack/index.html s3://website/index.html 
